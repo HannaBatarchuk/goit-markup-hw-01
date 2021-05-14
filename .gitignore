@@ -1,0 +1,4 @@
+./LICENCE
+./workspace.code-workspace
+./.gitignore
+*.DS_STORE
